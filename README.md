@@ -6,5 +6,5 @@
   - Ubuntu 16.04.6 LTS
 
 # Thanks
-https://qiita.com/masao-classcat/items/966a45f7235389a3bce9
-https://tutorials.chainer.org/ja/14_Basics_of_Chainer.html
+  - https://qiita.com/masao-classcat/items/966a45f7235389a3bce9
+  - https://tutorials.chainer.org/ja/14_Basics_of_Chainer.html
